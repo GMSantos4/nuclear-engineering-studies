@@ -1,14 +1,13 @@
-# Reasons for Applying - Study Notes for the KINGS Interview
+# The Nuclear Sector - IAEA, Reactor Fundamentals, APR1400, Barakah and Brazil
 
-These notes expand the main topics of my answer to **Q1 - Reasons for applying for the program at KINGS** (Statement of Purpose). In Q1, I gave three reasons to choose KINGS:
+These notes give a broad view of the nuclear sector, organized in four parts:
 
-1. The **NPP Engineering and Project Management Track** is endorsed by the **IAEA INMA program**, which combines engineering, management, and nuclear safety;
-2. KINGS has a practical approach, with facilities such as the **APR1400 Nuclear Plant Analyzer**;
-3. South Korea has proven experience in building and commissioning NPPs in its own country and abroad, such as the **Barakah project in the UAE**.
+1. The **IAEA** and its **INMA programme** (International Nuclear Management Academy), which combines engineering, management and nuclear safety;
+2. **Nuclear engineering fundamentals**: nuclear and reactor physics, thermal-hydraulics, nuclear safety, PWRs and the Korean **APR1400**;
+3. The **Barakah project in the UAE**, a case study of building and commissioning a nuclear power plant abroad;
+4. The **nuclear sector in Brazil**, including the context of LABGENE.
 
-I also added a fourth section about the **nuclear sector in Brazil**, because the interviewers will probably ask about my country and about the context of LABGENE.
-
-Each section ends with possible interview questions and short answers written with my own words. The answers are a base, not a script.
+Each section ends with review questions and short answers written with my own words.
 
 ---
 
@@ -109,7 +108,7 @@ Each section ends with possible interview questions and short answers written wi
 - The INMA endorsement is an **external quality guarantee**: the curriculum was reviewed by the IAEA, and it is aligned with international best practices.
 - This is exactly the combination I mentioned in Q1: **engineering + management + nuclear safety**.
 
-## 1.4 Possible interview questions - INMA and IAEA
+## 1.4 Review questions - INMA and IAEA
 
 **Q: What is INMA and why is it important to you?**
 - INMA is the International Nuclear Management Academy, an IAEA framework for master's programmes in Nuclear Technology Management. It combines nuclear technology with management and leadership. It is important to me because, after three years working at the LABGENE project, I realized that our main challenges are not only technical. They are related to contracts, licensing, systems interfaces and commissioning management. INMA covers exactly these topics.
@@ -137,7 +136,7 @@ Each section ends with possible interview questions and short answers written wi
 
 # 2. Nuclear engineering fundamentals, PWRs and the APR1400
 
-This is the most important section for the technical part of the interview. A professor from the area will probably check whether I know the basics.
+This section covers the technical basics of nuclear engineering.
 
 ## 2.1 Basic nuclear physics
 
@@ -501,7 +500,7 @@ $$\frac{P(t)}{P_0} \approx 0.066 \, t^{-0.2} \quad (t \text{ in seconds})$$
 - The APR1400 is the "product" of a national strategy: technology transfer + standardization + repeated construction.
 - For LABGENE, the lesson is: a **first-of-a-kind** plant is always harder. Korea reduced risk by repeating the same design. Since we cannot repeat, we need very strong **project management, configuration management and commissioning control**.
 
-## 2.8 Possible interview questions - Nuclear fundamentals, PWR and APR1400
+## 2.8 Review questions - Nuclear fundamentals, PWR and APR1400
 
 **Q: Explain how a PWR works.**
 - A PWR uses light water as coolant and moderator. The primary water is kept at about 155 bar, so it does not boil. The reactor heats the water from about 290 °C to 325 °C. The hot water goes to the steam generators, where it boils the secondary water. The steam drives the turbine and the generator. Then the steam is condensed and pumped back to the steam generators. The pressurizer controls the primary pressure.
@@ -641,7 +640,7 @@ $$\frac{P(t)}{P_0} \approx 0.066 \, t^{-0.2} \quad (t \text{ in seconds})$$
 - Korea won because of **price, schedule, reference plant, standardization and a complete package**.
 - The main delay was not construction, but **readiness for operation**. This confirms my interest in commissioning management and the transition between construction and operation.
 
-## 3.9 Possible interview questions - Barakah
+## 3.9 Review questions - Barakah
 
 **Q: What do you know about the Barakah project?**
 - Barakah is the first nuclear power plant in the Arab world, with four APR1400 units built by a KEPCO-led consortium. The contract was signed in December 2009, for about 20 billion dollars. All four units are now in commercial operation, the last one since September 2024. The plant supplies about a quarter of UAE electricity.
@@ -780,7 +779,7 @@ $$\frac{P(t)}{P_0} \approx 0.066 \, t^{-0.2} \quad (t \text{ in seconds})$$
 - Brazil uses **LEU** in its naval reactor, not HEU. Under the Quadripartite Agreement, there are special arrangements with the IAEA for nuclear material used in naval propulsion.
 - **The next phase is commissioning.** This is why I am studying SSG-28 and RG 1.68 and why I want to study at KINGS.
 
-## 4.7 Possible interview questions - Brazil
+## 4.7 Review questions - Brazil
 
 **Q: Can you describe the Brazilian nuclear sector?**
 - Brazil has two operating nuclear power plants, Angra 1 and 2, both PWRs, with about 2 GW. Angra 3 is about 66% complete but stopped. Nuclear represents about 2-3% of our electricity. Brazil masters the full fuel cycle and has one of the largest uranium reserves in the world. The Navy has its own program, with the fuel cycle and the LABGENE prototype for the nuclear-powered submarine.
@@ -810,7 +809,7 @@ $$\frac{P(t)}{P_0} \approx 0.066 \, t^{-0.2} \quad (t \text{ in seconds})$$
 - My direct goal is to contribute to LABGENE's commissioning. But the knowledge of project management, licensing and commissioning is also useful for Angra 3, for the RMB, and for future SMR projects in Brazil. Korea has the practical experience in building and commissioning plants that Brazil needs.
 
 **Q: Is there any cooperation between Brazil and Korea in the nuclear field?**
-- (Check recent news before the interview.) Korean companies have shown interest in the Brazilian market, including Angra 3 and new plants. In my view, the Korean experience in standardization and on-time construction is very valuable for Brazil.
+- (Check recent news, this changes often.) Korean companies have shown interest in the Brazilian market, including Angra 3 and new plants. In my view, the Korean experience in standardization and on-time construction is very valuable for Brazil.
 
 ---
 
