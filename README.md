@@ -10,9 +10,8 @@ The repository started as preparation for a master's application, and is now a g
 
 | File | Topic | Main sources |
 |------|-------|--------------|
-| [`ssg-28_rg-1.68_studies.md`](ssg-28_rg-1.68_studies.md) | Commissioning of NPPs: IAEA SSG-28 and US NRC RG 1.68, side by side, with a comparison and review questions | IAEA SSG-28, NRC RG 1.68 |
-| [`commissioning_studies.md`](commissioning_studies.md) | Section-by-section reading notes on IAEA SSG-28 | IAEA SSG-28 |
-| [`reasons_application.md`](reasons_application.md) | IAEA and the INMA programme, nuclear physics and reactor fundamentals, PWRs and the APR1400, the Barakah project, and the nuclear sector in Brazil | IAEA, KINGS, KHNP, ENEC, CNEN and others (listed in the file) |
+| [`ssg-28_rg-1.68_studies.md`](ssg-28_rg-1.68_studies.md) | Commissioning of NPPs: IAEA SSG-28 and US-NRC RG 1.68, side by side, with a comparison and review questions | IAEA SSG-28, NRC RG 1.68 |
+| [`nuclear_sector_overview.md`](nuclear_sector_overview.md) | The IAEA and the INMA programme, nuclear physics and reactor fundamentals, PWRs and the APR1400, the Barakah project, and the nuclear sector in Brazil | IAEA, KHNP, ENEC, CNEN and others (listed in the file) |
 
 ---
 

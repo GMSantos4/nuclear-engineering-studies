@@ -1,6 +1,6 @@
-# SSG-28 and RG 1.68 - Study Notes for the KINGS Interview
+# NPP Commissioning - IAEA SSG-28 and US-NRC RG 1.68
 
-These notes are a summary of the two main documents about NPP commissioning that I am studying for the KINGS interview:
+These notes summarize two key documents about the commissioning of nuclear power plants:
 
 - **IAEA SSG-28 - Commissioning for Nuclear Power Plants** (IAEA Specific Safety Guide, Vienna, 2014);
 - **US-NRC Regulatory Guide 1.68, Revision 4 - Initial Test Programs for Water-Cooled Nuclear Power Plants** (June 2013).
@@ -10,7 +10,7 @@ The idea is not to cover every paragraph, but to keep the main spirit of each do
 - SSG-28: paragraph number, for example **(2.19)**;
 - RG 1.68: section of the guide, for example **(RG C.8)** or **(RG App. A-3)**.
 
-At the end of each part there is a "Summing up" written with my own words. At the end of the file there are possible interview questions with answers.
+At the end of each part there is a "Summing up" written with my own words. At the end of the file there are review questions with answers.
 
 ---
 
@@ -21,7 +21,7 @@ At the end of each part there is a "Summing up" written with my own words. At th
 - [2. US-NRC RG 1.68](#2-us-nrc-rg-168---initial-test-programs-for-water-cooled-npps)
 - [3. Comparing the two documents](#3-comparing-the-two-documents)
 - [4. Why these documents matter for LABGENE (my view)](#4-why-these-documents-matter-for-labgene-my-view)
-- [5. Possible interview questions and answers](#5-possible-interview-questions-and-answers)
+- [5. Review questions and answers](#5-review-questions-and-answers)
 
 ---
 
@@ -427,7 +427,7 @@ The main ideas I want to keep are:
 
 ---
 
-# 5. Possible interview questions and answers
+# 5. Review questions and answers
 
 > Tip for myself: answer in a short and direct way first, then give one example. If I do not know something, I should say it honestly and explain how I would find the answer.
 
